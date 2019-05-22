@@ -13,3 +13,6 @@ At Fannie Mae, we work hard every day to bring new, innovative solutions to the 
 
 We love feedback. Share your thoughts and questions with us at <the_exchange@fanniemae.com>
 
+### License Summary
+This sample code is made available under the MIT-0 license. See the LICENSE file.
+
