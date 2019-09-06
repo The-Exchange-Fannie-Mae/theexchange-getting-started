@@ -1,86 +1,49 @@
-# The Exchange™ by Fannie Mae 
-# FAQs
+# The Exchange™ by Fannie Mae
+## FAQs
 
-## Q: What is The Exchange™ by Fannie Mae?
+### What is The Exchange by Fannie Mae?
 
- A: The Exchange is a platform that enables housing innovators across the nation to address key housing industry
+[The Exchange](https://developer.theexchange.fanniemae.com) is a free public data and API platform that provides access to quality housing and economic data. The platform makes analyzing housing data—including number crunching that until recently had to be done by specialists—accessible to organizations that lack deep technical expertise. The objective of The Exchange is to drives innovation in U.S. housing and mortgage markets through data sharing.
 
- challenges through data-driven solutions. The Exchange enables access to a diverse range of Application
+### How do I get started?
 
- Programming Interfaces (APIs), empowering users to gain insights, spur creativity, innovate, and grow their
+While you can browse the site, registration is required to use the APIs and Apps. You can sign up for [The Exchange here](https://developer.theexchange.fanniemae.com/account/register).
 
- businesses.
+### What is an API?
 
-## Q: Who is participating in The Exchange pilot?
+An Application Programming Interface (API) is a software intermediary that allows two applications to talk to each other. APIs are typically created by organizations to allow individuals – or applications such as Google Maps – to access their data.
 
-A: A broad cross-section of mortgage lenders, manufactured housing manufacturers and communities, home insurers,
-and investors are collaborating with Fannie Mae throughout the pilot process.
+### Is personal identification data available through the APIs?
 
-## Q: What data does The Exchange offer?
+No, personal identification data is not available through the APIs. 
 
-A: Currently, The Exchange includes two API Products–the Manufactured Housing API, and the Housing Pulse API.
+### How do I use the APIs?
 
-```
- Manufactured Housing – Access, share, and get creative with manufactured housing data from
-contributors across the nation to gain insights, generate ideas, improve decision-making and power
-innovation. Includes data dictionary.
- Housing Pulse – Make API calls to Fannie Mae’s economic and strategic research data to explore key
-housing topics, understand trends, and identify opportunities for new products, services, and more.
-Includes data dictionary.
-```
-## Q: How do I get started?
+To try out the APIs, follow these steps:
 
-A: Browse to The Exchange homepage. (Google Chrome is recommended.) Scroll to the bottom of the page to view the
-Getting Started Guide. You can sign up for The Exchange here.
+- [Sign up](https://developer.theexchange.fanniemae.com/account/register) for The Exchange.
+- Review the documentation for each product: Housing Pulse, Manufactured Housing, Loan Data Tool Kit.
+- The documentation provides an industry standard Swagger API definition. Note there are “curl” commands embedded within each API endpoint. Use these as a guide to programmatically access the APIs.
 
-## Q: Is personal identification data available through the APIs?
+### What types of data visualizations can I view? How do I create a data visualization?
 
-A: No, personal identification data is not available through the APIs.
+Click on “[Apps](https://developer.theexchange.fanniemae.com/data-visualizations)” in the menu to learn more. You must be registered to create a data visualization. Note that our tool is supported on iOS and Android devices.
+ 
+### How do I view a dataset?
 
-## Q: What is an API?
+1.	[Register](ttps://developer.theexchange.fanniemae.com/account/register) or [log in](https://developer.theexchange.fanniemae.com/account/login) and navigate to Documentation and click on one of the primary API endpoints.
+2.	Copy and paste the curl command as a guide on how to begin programmatically with the API. This contains your User Token. If you remain logged into the site, your user token will be automatically refreshed. Please note that the User Token is set to expire after 60 minutes of inactivity.
 
-A: An Application Programming Interface (API) is a software intermediary that allows two applications to talk to each
-other. APIs are typically created by organizations to allow individuals – or applications such as Google Maps – to access
-their data.
+### What other resources are available?
 
-## Q: How do I try out the APIs?
+Visit our GitHub site to access our [Getting Started Guide](https://github.com/The-Exchange-Fannie-Mae/theexchange-getting-started/blob/master/theexchange-gettingstarted.md) and get tips on using our APIs.
 
-A: To try out the APIs, follow these steps:
+### Do you support Internet Explorer?
 
-```
- Sign up for The Exchange here.
- Review the documentation for each API. For Housing Pulse, click here; for Manufactured Housing, click
-here.
- The documentation provides an industry standard Swagger API definition. Note there are “curl”
-commands embedded within each API endpoint. Use these as a guide to programmatically access the
-APIs.
-```
-## Q. How can I share data on The Exchange?
+For security, speed, and performance we recommend using the latest browsers from Google Chrome, Mozilla Firefox, Safari, and Microsoft Edge. We do not support Internet Explorer 11 and below.
 
-In addition to accessing data, you can share data on The Exchange. Use the “Contact Us” link found throughout the site to
-email The Exchange team and tell us more about your data needs.
+### How do I get help or submit feedback?
 
-## Q: What types of data visualizations can I view?
+Contact us at the_exchange@fanniemae.com.
 
-A: Click on the “DataViz” links within each product area. For Housing Pulse, go here and for Manufactured Housing, go
-here. The sample data visualizations demonstrate industry trends over time or by geographic region. You will have to sign
-up and log in to view the data visualizations.
-
-## Q: How do I view a dataset?
-
-A: Click “View a dataset” on the homepage and follow the directions. Instructions can also be found in the User Guide
-here. More information regarding the datasets offered can be found on the APIs page.
-
-## Q: How do I get help or submit feedback during the pilot process?
-
-A: Click the “Contact Us”, “Help”, or “Contact Fannie Mae” links throughout the site to email The Exchange team. A
-representative will respond to your inquiry.
-
-## Q. What are the next steps in the pilot process? When will The Exchange be launched publicly?
-
- A: The Pilot process will begin with a personalized kick-off session. Stay tuned for more information about your session.
-
-
-
-© 2018 Fannie Mae.Trademarks of Fannie Mae.                                                            10.26.2018    1 of 1
-
+_© 9/5/2019 Fannie Mae. Trademarks of Fannie Mae._
