@@ -27,7 +27,7 @@ To try out the APIs, follow these steps:
 
 ### What types of data visualizations can I view? How do I create a data visualization?
 
-Click on “[Apps](https://developer.theexchange.fanniemae.com/data-visualizations)” in the menu to learn more. You must be registered to create a data visualization. Note that our tool is supported on iOS and Android devices.
+Click on “[Apps](https://developer.theexchange.fanniemae.com/data-visualizations)” in the menu to learn more. You must be registered to create a data visualization. Note that our tool is not supported on iOS and Android devices.
  
 ### How do I view a dataset?
 
@@ -46,4 +46,4 @@ For security, speed, and performance we recommend using the latest browsers from
 
 Contact us at the_exchange@fanniemae.com.
 
-_© 9/5/2019 Fannie Mae. Trademarks of Fannie Mae._
+_© 9/9/2019 Fannie Mae. Trademarks of Fannie Mae._
