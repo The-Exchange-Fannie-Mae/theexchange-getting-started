@@ -2,7 +2,7 @@
 
 At Fannie Mae, we work hard every day to bring new, innovative solutions to the housing market.
 
-[Join a community](https://developer.theexchange.fanniemae.com) dedicated to solving the housing industry’s toughest challenges. Together, we can turn information into innovation.
+[Join a community](https://developer.theexchange.fanniemae.com) dedicated to solving the housing industry’s toughest challenges. Together, we can turn information into innovation..
 
 ### In this repository
 
