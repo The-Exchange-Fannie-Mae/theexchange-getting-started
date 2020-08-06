@@ -1,12 +1,12 @@
-# The Exchangeô by Fannie Mae
+# The Exchange¬Æ by Fannie Mae
 ## Getting Started Guide
 
 ### Registration
 
-1. Browse to developer.theexchange.fanniemae.com.
-2.	 Click ì[Sign Up](https://developer.theexchange.fanniemae.com/account/register)î. Create account and fill in your details.
-  - You will receive an email with subject line: ìThe Exchange Account Confirmationî.
-3.	 Click on the link under the ìRegister Accountî section within the email. 
+1. Browse to theexchange.fanniemae.com.
+2.	 Click ‚Äú[Sign Up](https://theexchange.fanniemae.com/account/register)‚Äù. Create account and fill in your details.
+  - You will receive an email with subject line: ‚ÄúThe Exchange Account Confirmation‚Äù.
+3.	 Click on the link under the ‚ÄúRegister Account‚Äù section within the email. 
   -	If the link does not work, we provide an url that can be copy and pasted into your browser. 
 4. 	Login using the email address you used to register and the password you created.
 
@@ -14,18 +14,18 @@
 
 The site contains several key pages to help you learn about and interact with The Exchange.
 
-- [Home](https://developer.theexchange.fanniemae.com) ó provides an overview of The Exchange as well as a link to sign up, navigate to the APIs and associated Documentation.
-- [APIs](https://developer.theexchange.fanniemae.com/public-apis) ó provides links to primary products ñ with Overview, Documentation, and Data Visualization (when applicable). The Overview Page contains information on the specifics of the data with data dictionaries. The Documentation Page displays the associated endpoints for an API product. The Data Visualization Page provides a sample data visualization.
-- [Apps](https://developer.theexchange.fanniemae.com/data-visualizations) ó our self-service data visualization tool for quick analysis and insights. Note that our tool is not supported on iOS and Android devices.
-- [Documentation](https://developer.theexchange.fanniemae.com/documentation) ó provides information on API operations and the ability to interact with the API through the Swagger overlay.
-- [Resources](https://github.com/The-Exchange-Fannie-Mae) ó The Exchange GitHub repository featuring code samples.
-- [Account Profile](https://developer.theexchange.fanniemae.com/account/profile) ó access your User Token, update account details and change your password.
+- [Home](https://theexchange.fanniemae.com) ‚Äî provides an overview of The Exchange as well as a link to sign up, navigate to the APIs and associated Documentation.
+- [APIs](https://theexchange.fanniemae.com/public-apis) ‚Äî provides links to primary products ‚Äì with Overview, Documentation, and Data Visualization (when applicable). The Overview Page contains information on the specifics of the data with data dictionaries. The Documentation Page displays the associated endpoints for an API product. The Data Visualization Page provides a sample data visualization.
+- [Apps](https://theexchange.fanniemae.com/data-visualizations) ‚Äî our self-service data visualization tool for quick analysis and insights. Note that our tool is not supported on iOS and Android devices.
+- [Documentation](https://theexchange.fanniemae.com/documentation) ‚Äî provides information on API operations and the ability to interact with the API through the Swagger overlay.
+- [Resources](https://github.com/The-Exchange-Fannie-Mae) ‚Äî The Exchange GitHub repository featuring code samples.
+- [Account Profile](https://theexchange.fanniemae.com/account/profile) ‚Äî access your User Token, update account details and change your password.
 
 ### Documentation and API Usage
 
-1. 	[Register](https://developer.theexchange.fanniemae.com/account/register) or [log in](https://developer.theexchange.fanniemae.com/account/login) and navigate to Documentation and click on one of the primary API endpoints.
+1. 	[Register](https://theexchange.fanniemae.com/account/register) or [log in](https://theexchange.fanniemae.com/account/login) and navigate to Documentation and click on one of the primary API endpoints.
 2. 	Copy and paste the curl command as a guide on how to begin programmatically with the API. This contains your User Token. If you remain logged into the site, your user token will be automatically refreshed. Please note that the User Token is set to expire after 60 minutes of inactivity.
 
 Have a question or want to give us feedback? Contact us: the_exchange@fanniemae.com
 
-_© 9/5/2019 Fannie Mae. Trademarks of Fannie Mae._
+_¬© 9/5/2019 Fannie Mae. Trademarks of Fannie Mae._
