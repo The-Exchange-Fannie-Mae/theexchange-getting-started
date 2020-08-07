@@ -28,4 +28,4 @@ The site contains several key pages to help you learn about and interact with Th
 
 Have a question or want to give us feedback? Contact us: the_exchange@fanniemae.com
 
-_© 9/5/2019 Fannie Mae. Trademarks of Fannie Mae._
+_© 2019 Fannie Mae. The Exchange is a registered trademark of Fannie Mae._
