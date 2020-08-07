@@ -42,4 +42,4 @@ For security, speed, and performance we recommend using the latest browsers from
 
 Contact us at the_exchange@fanniemae.com.
 
-_© 9/9/2019 Fannie Mae. Trademarks of Fannie Mae._
+_© 2019 Fannie Mae. The Exchange is a registered trademark of Fannie Mae._
